@@ -4,8 +4,10 @@ Esse projeto foi criado como exemplo para os primeiros passos de como criar uma 
 
 ## Pré-Requisitos:
 * Node.js instalado.
-* Módulo do GraphQL Yoga (https://github.com/prisma-labs/graphql-yoga).
-* Módulo do UUID (https://www.npmjs.com/package/uuid).
+
+## Módulos utilizados:
+* GraphQL Yoga (https://github.com/prisma-labs/graphql-yoga).
+* UUID (https://www.npmjs.com/package/uuid).
 
 ## Setup do projeto:
 
