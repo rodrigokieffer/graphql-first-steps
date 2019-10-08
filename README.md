@@ -1,4 +1,4 @@
-# graphql-first-steps
+# GraphQL First Steps
 
 Esse projeto foi criado como exemplo para os primeiros passos de como criar uma API utilizando GraphQL.
 
