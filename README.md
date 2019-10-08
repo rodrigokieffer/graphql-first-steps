@@ -31,7 +31,7 @@ query AllTasks {
 }
 ```
 
-### Executando Mutations
+### Executando as Mutations:
 
 **Adicionando uma nova task:**
 
